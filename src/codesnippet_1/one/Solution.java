@@ -1,4 +1,4 @@
-package codesnippet_1;
+package codesnippet_1.one;
 
 import java.util.Scanner;
 
