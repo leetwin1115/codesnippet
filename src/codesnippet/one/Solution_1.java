@@ -1,8 +1,8 @@
-package codesnippet_1.one;
+package codesnippet.one;
 
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("정수 숫자를 입력하세요");
